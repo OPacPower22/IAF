@@ -214,8 +214,53 @@ creación del repositorio, la estructura inicial, la estrategia de ramas y la
 publicación inicial mediante GitHub Pages.
 
 ⸻
-Política SIGLUX-DEV-001 – Diagnóstico previo a la corrección
 
-Ninguna incidencia técnica será corregida sin antes identificar, documentar y validar su causa raíz. Quedan descartadas las correcciones por ensayo y error como metodología ordinaria de trabajo. Toda acción correctiva deberá sustentarse en evidencia técnica obtenida durante la fase de diagnóstico.
+Se incorpora oficialmente la política:
+
+SIGLUX-DEV-001 – Diagnóstico previo a la corrección
+
+Toda incidencia técnica deberá someterse a un proceso formal de diagnóstico y análisis de causa raíz antes de ejecutar cualquier acción correctiva. Se prohíbe como práctica ordinaria la corrección basada en ensayo y error. Toda medida correctiva deberá sustentarse en evidencia técnica suficiente y quedar documentada en la Memoria Técnica correspondiente.
 
 ⸻
+
+Decisión 001 (Aprobada)
+
+Se adopta la siguiente estructura documental para el proyecto del sitio web:
+
+IAF/
+│
+├── docs/
+│   ├── gobernanza/
+│   │   ├── IAF-WEB-GOB-000
+│   │   ├── IAF-WEB-GOB-001
+│   │   ├── ADR/
+│   │   └── politicas/
+│   │
+│   ├── arquitectura/
+│   │
+│   ├── desarrollo/
+│   │
+│   ├── manuales/
+│   │
+│   ├── memoria/
+│   │   └── Memoria_Tecnica-Sitio_Web_IAF.md
+│   │
+│   └── anexos/
+│
+├── assets/
+├── index.html
+└── README.md
+
+⸻
+
+Se propone la siguiente nomenclatura:
+
+* IAF-GOB-000 → Sistema de Clasificación Documental.
+* IAF-GOB-001 → Memoria Técnica General del Proyecto.
+* IAF-ADR-001 → Registro de Decisiones de Arquitectura.
+* IAF-POL-001 → Políticas del proyecto.
+* IAF-MAN-001 → Manuales.
+* IAF-ANX-001 → Anexos.
+
+⸻
+
