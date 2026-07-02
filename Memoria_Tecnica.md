@@ -212,3 +212,10 @@ Versión	Fecha	Descripción
 0.1.0	02/07/2026	Primera emisión de la Memoria Técnica. Se documentan la 
 creación del repositorio, la estructura inicial, la estrategia de ramas y la 
 publicación inicial mediante GitHub Pages.
+
+⸻
+Política SIGLUX-DEV-001 – Diagnóstico previo a la corrección
+
+Ninguna incidencia técnica será corregida sin antes identificar, documentar y validar su causa raíz. Quedan descartadas las correcciones por ensayo y error como metodología ordinaria de trabajo. Toda acción correctiva deberá sustentarse en evidencia técnica obtenida durante la fase de diagnóstico.
+
+⸻
