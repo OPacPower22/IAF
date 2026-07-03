@@ -663,3 +663,21 @@ Observaciones: Esta metodología permitirá que la documentación especializada 
 
 ⸻
 
+MT-0025 - Determinación de la estrategia para la construcción de la arquitectura documental
+
+Como consecuencia de la consolidación metodológica alcanzada durante las primeras etapas del proyecto, se revisó la forma en que serán elaborados los documentos especializados que integrarán la arquitectura documental de IAF.
+
+Durante dicha revisión se confirmó que el desarrollo de cada documento especializado deberá responder a una necesidad previamente identificada y documentada, descartándose la elaboración anticipada de documentos cuya existencia no se encuentre plenamente justificada.
+
+Se acordó igualmente que la elaboración de dichos documentos se realizará mediante un proceso incremental, desarrollando cada capítulo, apartado o sección de manera consensuada y validando su contenido antes de continuar con el siguiente.
+
+Con el propósito de preservar la trazabilidad documental del proyecto, se determinó que toda decisión arquitectónica incorporada a los documentos especializados deberá poder relacionarse con el registro correspondiente de la Memoria Técnica que documentó su origen, análisis y justificación.
+
+Como resultado de este acuerdo se determinó iniciar formalmente la serie documental correspondiente a Arquitectura mediante la elaboración del documento IAF-ARC-001, el cual constituirá el primer documento especializado del proyecto desarrollado íntegramente bajo la metodología del ecosistema SIGLUX.
+
+Estado: Validado.
+
+Observaciones: Se reconoce que el inicio de la serie documental de Arquitectura representa la transición formal entre la etapa de consolidación metodológica y el inicio del desarrollo estructurado del proyecto.
+
+⸻
+
