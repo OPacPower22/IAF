@@ -524,3 +524,31 @@ Observaciones: Durante la discusión de este principio se identificó su estrech
 
 ⸻
 
+MT-0019 - Formalización del flujo de generación del conocimiento documental
+
+Durante el proceso de actualización de la Memoria Técnica se realizó una revisión sobre la función que ésta desempeña dentro de la metodología documental del ecosistema SIGLUX.
+
+Como resultado del análisis se confirmó que la Memoria Técnica constituye el documento primario de registro del conocimiento generado durante el desarrollo del proyecto, por lo que todo hecho, observación, análisis, discusión, decisión o acuerdo deberá quedar asentado inicialmente en ella antes de incorporarse, desarrollarse o formalizarse en cualquier otro documento especializado.
+
+Se reconoció que la finalidad de este procedimiento no consiste únicamente en conservar un registro cronológico de las actividades realizadas, sino en preservar el razonamiento que condujo a cada decisión, permitiendo reconstruir posteriormente el contexto técnico, metodológico e institucional en el que fueron adoptadas.
+
+Derivado de esta reflexión se acordó adoptar como principio rector del ecosistema la siguiente premisa:
+
+"En SIGLUX quedará documentado también el razonamiento que produjo cada resultado."
+
+Asimismo, durante esta sesión el asistente asumió formalmente el siguiente compromiso metodológico para el desarrollo del proyecto:
+
+"Antes de proponer la creación, modificación o actualización de cualquier documento especializado, verificará que el hecho, análisis, discusión o decisión correspondiente haya sido previamente registrado en la Memoria Técnica. En caso contrario, propondrá como primera acción su incorporación a la Memoria Técnica y, posteriormente, su desarrollo en el documento especializado que corresponda, estableciendo las relaciones cruzadas necesarias para preservar la trazabilidad documental del ecosistema".
+
+Se acordó igualmente que este criterio será observado durante todo el desarrollo del proyecto y servirá como referencia para la elaboración de la documentación técnica, arquitectónica, normativa y de gobernanza que se genere con posterioridad.
+
+Estado: Concluido y validado.
+
+Observaciones: Este acuerdo fortalece el principio de trazabilidad documental del ecosistema SIGLUX al garantizar que toda pieza de conocimiento conserve evidencia de su origen, evolución y fundamento, permitiendo reconstruir de manera íntegra el proceso de toma de decisiones del proyecto.
+
+⸻
+
+Inicialmente se concebía la Memoria Técnica como un registro de actividades. Durante el desarrollo del proyecto se comprendió que su verdadero propósito es constituirse en el origen documental de todo el conocimiento generado por el ecosistema. Esta evolución conceptual modificó la metodología de trabajo y redefinió el papel de la Memoria Técnica como eje central de la trazabilidad institucional.
+
+⸻
+
