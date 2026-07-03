@@ -264,3 +264,19 @@ Se propone la siguiente nomenclatura:
 
 ⸻
 
+MT-0005
+
+Consolidación del repositorio institucional
+
+Con motivo del inicio formal del desarrollo del sitio web institucional de Iter ad Fraternitatem (IAF), se creó el repositorio oficial del proyecto en GitHub, estableciéndose como el medio institucional para el control de versiones, administración del código fuente y sincronización del desarrollo entre los distintos entornos de trabajo.
+
+Durante esta etapa se definió la estrategia inicial de ramas, conservando una rama principal (main) para las versiones estables del proyecto y una rama de desarrollo (develop) destinada a concentrar las funcionalidades previamente validadas antes de su integración a la rama principal.
+
+Como criterio metodológico, se acordó que las ramas de trabajo (feature/*) serán creadas únicamente cuando exista una funcionalidad específica por desarrollar, evitando la generación anticipada de ramas sin un propósito inmediato.
+
+Asimismo, se estableció que ninguna implementación será considerada concluida hasta haber sido funcionalmente validada y asentada en la presente Memoria Técnica.
+
+Estado: Concluido y validado.
+
+⸻
+
