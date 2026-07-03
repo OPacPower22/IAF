@@ -611,3 +611,19 @@ Observaciones: La adopción de esta paleta responde a la necesidad de mantener c
 
 ⸻
 
+MT-0022 - Verificación de la documentación preexistente y establecimiento de la línea base documental
+
+Con el propósito de determinar la existencia de documentación institucional desarrollada con anterioridad al inicio formal del proyecto, se realizó una revisión del entorno principal de trabajo utilizado durante las primeras etapas de desarrollo.
+
+Como resultado de dicha revisión se confirmó que no existen documentos correspondientes a gobernanza, arquitectura, desarrollo, auditoría o demás series documentales institucionales del proyecto IAF.
+
+En consecuencia, se determinó que la Memoria Técnica constituye el primer documento formal del proyecto generado bajo la metodología del ecosistema SIGLUX y que los documentos especializados serán elaborados a partir de la presente etapa, conservando como punto de origen los registros contenidos en la Memoria Técnica.
+
+Paralelamente, se efectuó un respaldo de las carpetas históricas del proyecto en Google Drive con el propósito de preservar los antecedentes existentes antes del inicio de la línea base documental institucional.
+
+Estado: Validado.
+
+Observaciones: La verificación realizada elimina la incertidumbre respecto a la existencia de documentación paralela y permite establecer como línea base oficial del proyecto la documentación alojada en el repositorio institucional.
+
+⸻
+
