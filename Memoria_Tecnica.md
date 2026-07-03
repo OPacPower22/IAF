@@ -470,3 +470,57 @@ Observaciones: La conclusión de esta etapa marca el cierre del periodo de prepa
 
 ⸻
 
+MT-0016 - Definición del flujo documental del proyecto
+
+Durante el análisis de la organización documental del proyecto se revisó el papel que desempeña la Memoria Técnica dentro de la metodología de trabajo adoptada para el ecosistema SIGLUX.
+
+Inicialmente se consideró que determinados principios, políticas o criterios arquitectónicos podrían incorporarse directamente a los documentos especializados correspondientes. Sin embargo, tras el análisis metodológico efectuado, se concluyó que dicho procedimiento rompería la trazabilidad documental del proyecto.
+
+Como resultado de esta revisión se estableció que toda decisión relevante deberá registrarse en primera instancia en la Memoria Técnica, independientemente de que posteriormente sea desarrollada, formalizada o normada mediante otros documentos pertenecientes al sistema documental del proyecto.
+
+En consecuencia, la Memoria Técnica se reconoce como el punto de origen documental de todas las decisiones institucionales adoptadas durante el ciclo de vida del proyecto.
+
+Estado: Concluido y validado.
+
+Observaciones: Los documentos especializados conservarán su función específica, pero deberán mantener una relación trazable con el registro correspondiente de la Memoria Técnica, constituyendo ésta la fuente primaria para la reconstrucción histórica del proyecto.
+
+⸻
+
+MT-0017 - Adopción del principio de crecimiento orgánico de la arquitectura
+
+Como resultado del análisis efectuado sobre la estructura física del proyecto, se revisó la conveniencia de crear anticipadamente directorios destinados a albergar posibles desarrollos futuros.
+
+Durante dicha revisión se observó que la creación preventiva de carpetas cuya utilización aún no ha sido definida incrementa innecesariamente la complejidad del proyecto, dificulta su mantenimiento y puede generar estructuras documentales carentes de contenido o propósito claramente identificado.
+
+En atención a estas consideraciones se acordó que la estructura física del proyecto crecerá únicamente conforme exista una necesidad real de incorporar nuevos documentos, recursos o componentes funcionales.
+
+En consecuencia, la creación de nuevos directorios dejará de responder a previsiones hipotéticas y estará condicionada a la existencia de un elemento concreto que requiera ser incorporado al proyecto.
+
+Se determinó igualmente que toda nueva incorporación deberá justificarse por la existencia de un documento, recurso o componente cuya ubicación resulte necesaria dentro de la estructura del proyecto.
+
+Estado: Concluido y validado.
+
+Observaciones: Este criterio permitirá que la arquitectura física evolucione de forma controlada, manteniendo la simplicidad estructural durante las primeras etapas del proyecto y evitando reorganizaciones innecesarias en el futuro.
+
+⸻
+
+MT-0018 - Principio "La estructura sigue a la necesidad documentada"
+
+Como consecuencia del análisis efectuado sobre el crecimiento orgánico de la arquitectura del proyecto, se identificó la necesidad de establecer un criterio rector que orientara la evolución futura de la estructura documental y física del sistema.
+
+Después de evaluar diversas alternativas, se concluyó que la incorporación de nuevos elementos estructurales deberá responder siempre a una necesidad previamente identificada y documentada, descartando la creación de directorios, componentes o recursos cuya existencia no se encuentre plenamente justificada.
+
+Como síntesis de este criterio se adoptó el principio:
+
+"La estructura sigue a la necesidad documentada".
+
+Este principio establece que la evolución de la arquitectura física del proyecto deberá producirse únicamente como consecuencia de requerimientos reales previamente analizados y registrados, procurando que cada nuevo elemento incorporado posea un propósito claramente identificado dentro del ecosistema.
+
+Se acordó que este principio constituirá uno de los fundamentos metodológicos para el desarrollo del proyecto y que, en su oportunidad, será desarrollado dentro de los documentos especializados de arquitectura y gobernanza, manteniendo siempre como referencia el presente registro de la Memoria Técnica.
+
+Estado: Concluido y validado.
+
+Observaciones: Durante la discusión de este principio se identificó su estrecha relación con la filosofía general de SIGLUX, particularmente con la prioridad otorgada a la trazabilidad, la evolución controlada y la construcción progresiva del conocimiento institucional.
+
+⸻
+
