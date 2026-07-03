@@ -715,3 +715,21 @@ Observaciones: Este procedimiento garantiza que la arquitectura documental del p
 
 ⸻
 
+MT-0028 - Incorporación del fundamento documental como elemento de los documentos especializados
+
+Durante la preparación del documento IAF-ARC-001 se analizó la forma en que los documentos especializados deberán mantener la trazabilidad respecto de las decisiones que les dieron origen.
+
+Como resultado de dicho análisis se observó que, si bien la metodología del ecosistema SIGLUX establece que toda decisión debe originarse en la Memoria Técnica, resultaba conveniente que dicha relación pudiera identificarse de manera explícita dentro de cada documento especializado.
+
+Derivado de esta reflexión se propuso incorporar, como parte de la estructura de los documentos especializados, un apartado denominado "Fundamento documental", cuya finalidad será identificar los registros de la Memoria Técnica que dieron origen al contenido desarrollado en cada capítulo, apartado o sección.
+
+Se determinó que este apartado no sustituye las referencias cruzadas ni los mecanismos de control documental establecidos por el ecosistema, sino que constituye un elemento adicional destinado a fortalecer la trazabilidad histórica del conocimiento y facilitar la reconstrucción del proceso de análisis y toma de decisiones.
+
+En consecuencia, se acordó que la incorporación de este apartado será considerada durante la elaboración de los documentos especializados que integren el proyecto, quedando su definición formal sujeta a la documentación normativa que en su momento corresponda.
+
+Estado: Validado.
+
+Observaciones: La presente determinación fortalece el principio metodológico conforme al cual el conocimiento institucional conserva evidencia de su origen y evolución, permitiendo identificar con precisión los registros de la Memoria Técnica que sustentan cada decisión incorporada a la documentación especializada.
+
+⸻
+
