@@ -681,3 +681,37 @@ Observaciones: Se reconoce que el inicio de la serie documental de Arquitectura 
 
 ⸻
 
+MT-0026 - Inicio de la etapa de documentación especializada
+
+Concluidas las actividades correspondientes a la organización inicial del proyecto, la consolidación metodológica y el establecimiento de la línea base documental, se analizó la oportunidad de iniciar la elaboración de los documentos especializados que integrarán el sistema documental de IAF.
+
+Durante dicho análisis se confirmó que las condiciones necesarias para comenzar esta nueva etapa se encuentran plenamente satisfechas, al haberse establecido previamente la infraestructura tecnológica, la metodología de trabajo, los principios de trazabilidad documental y la Memoria Técnica como documento primario del proyecto.
+
+En consecuencia, se determinó iniciar formalmente la generación de la documentación especializada de IAF, desarrollándola conforme a las necesidades reales del proyecto y observando el principio de crecimiento orgánico previamente adoptado.
+
+Se acordó que el primer documento especializado será IAF-ARC-001, correspondiente a la Arquitectura Física del Proyecto, por constituir el instrumento necesario para definir la organización estructural del proyecto antes de continuar con el desarrollo funcional del sitio web.
+
+Estado: Validado.
+
+Observaciones: La elaboración de este documento representa la transición entre la etapa de consolidación metodológica y el inicio formal de la arquitectura institucional del proyecto.
+
+⸻
+
+MT-0027 - Criterio para la elaboración de la documentación especializada
+
+Durante la preparación del documento IAF-ARC-001 se revisó nuevamente el procedimiento mediante el cual deberán desarrollarse los documentos especializados del proyecto.
+
+Como resultado del análisis se acordó que dichos documentos no serán redactados de forma integral en una sola etapa, sino mediante un proceso progresivo de construcción por consenso.
+
+Cada capítulo, apartado o sección será analizado, discutido y validado individualmente antes de proceder con el siguiente, permitiendo que el contenido evolucione conforme aumente el conocimiento del proyecto y se consoliden sus fundamentos metodológicos.
+
+Asimismo, se determinó que ningún capítulo será considerado definitivo hasta haber sido expresamente aprobado, pudiendo ser revisado y ajustado durante el proceso de elaboración cuando existan elementos técnicos o metodológicos que así lo justifiquen.
+
+Finalmente, se acordó que toda decisión incorporada a los documentos especializados deberá mantener una relación trazable con el registro correspondiente de la Memoria Técnica que documentó su origen, análisis y justificación.
+
+Estado: Validado.
+
+Observaciones: Este procedimiento garantiza que la arquitectura documental del proyecto evolucione de forma controlada, preservando la coherencia entre la documentación especializada y la historia metodológica registrada en la Memoria Técnica.
+
+⸻
+
