@@ -317,3 +317,67 @@ Estado: En proceso de integración.
 
 ⸻
 
+MT-0008 - Definición de la metodología operativa para el desarrollo del proyecto
+
+Durante las primeras actividades de organización del proyecto se revisó la forma en que se llevaría a cabo el desarrollo del sitio web institucional, concluyéndose que resultaba necesario establecer una metodología de trabajo que privilegiara la estabilidad del proyecto sobre la velocidad de implementación.
+
+Como resultado de dicho análisis se acordó que el desarrollo se realizaría mediante un proceso incremental, ejecutando una única actividad a la vez y evitando avanzar hacia nuevas funcionalidades sin haber validado previamente el correcto funcionamiento de la etapa inmediata anterior.
+
+Asimismo, se determinó que toda propuesta técnica relacionada con el desarrollo, la administración del repositorio o la utilización de GitHub deberá ir acompañada de instrucciones detalladas para su ejecución, permitiendo verificar paso a paso cada procedimiento antes de darlo por concluido.
+
+Se acordó igualmente que toda actividad relevante deberá quedar asentada en la Memoria Técnica inmediatamente después de su validación, garantizando así la conservación del contexto y la trazabilidad de las decisiones adoptadas.
+
+Estado: Concluido y validado.
+
+Observaciones: La adopción de esta metodología responde al propósito de construir una base documental sólida desde las primeras etapas del proyecto, evitando la acumulación de cambios no documentados o decisiones cuya justificación pueda perderse con el tiempo.
+
+⸻
+
+MT-0009 - Revisión de la estructura documental existente
+
+Con el propósito de iniciar la organización documental del proyecto, se propuso inicialmente crear una nueva estructura de directorios destinada a alojar la documentación técnica, de arquitectura y de gobernanza.
+
+Sin embargo, durante la revisión de los recursos disponibles en el entorno local se constató que el proyecto ya contaba con una estructura de directorios previamente organizada, desarrollada antes de la creación del repositorio institucional.
+
+Entre las carpetas identificadas se encuentran:
+* Admin
+* Contenido
+* Desarrollo
+* Gobierno
+* Identidad
+* Investigacion
+* Publicacion
+* Recursos
+* Respaldos
+
+Asimismo, dentro del directorio Admin se localizó la carpeta Actas, conteniendo el archivo denominado IAF-AC-001.md, el cual, aunque actualmente no contiene información, evidencia que desde etapas anteriores ya se contemplaba un sistema documental para el proyecto.
+
+Derivado de este hallazgo se reconsideró la estrategia inicialmente propuesta para la organización documental, concluyéndose que resultaba más conveniente analizar y normalizar la estructura existente antes de sustituirla por una completamente nueva.
+
+Estado: Concluido.
+
+Observaciones: Este hallazgo confirmó que el proyecto posee antecedentes organizativos previos al inicio formal de la metodología SIGLUX, los cuales deberán ser preservados y evaluados durante el proceso de integración documental.
+
+⸻
+
+Asiento MT-0010 - Recuperación de antecedentes gráficos y conceptuales del proyecto
+
+Como parte del proceso de revisión de la documentación histórica del proyecto, fueron recuperados diversos materiales desarrollados antes de la suspensión temporal de actividades ocasionada por la estructuración del ecosistema SIGLUX.
+
+Entre los elementos localizados destacan:
+* Propuesta gráfica del sello institucional de IAF.
+* Documento descriptivo del sistema de identidad visual.
+* Prototipo funcional (mockup) de la página principal del sitio web institucional.
+
+El análisis preliminar de dichos materiales permitió constatar que el proyecto contaba con un grado considerable de avance conceptual antes de su interrupción, especialmente en lo relativo a identidad visual, organización de contenidos y experiencia de usuario.
+
+No obstante, se reconoció que dichos materiales fueron elaborados bajo un contexto metodológico distinto al actualmente adoptado, por lo que deberán ser sometidos a revisión antes de incorporarse como referencia para el desarrollo definitivo del sitio.
+
+Se acordó conservar dichos antecedentes como evidencia histórica del proyecto, reconociendo su valor documental y su utilidad para comprender la evolución conceptual de IAF.
+
+Estado: Registrado.
+
+Observaciones: La existencia de estos antecedentes confirma que el proceso actual constituye una continuidad del trabajo previamente desarrollado y no el inicio absoluto del proyecto. En consecuencia, la evolución futura del sitio deberá procurar conservar aquellos elementos conceptuales que continúen siendo compatibles con la visión institucional vigente.
+
+⸻
+
