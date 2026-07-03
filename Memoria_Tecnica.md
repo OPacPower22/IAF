@@ -733,3 +733,36 @@ Observaciones: La presente determinación fortalece el principio metodológico c
 
 ⸻
 
+MT-0029 - Criterio de redacción para los documentos especializados
+
+Durante la preparación del primer documento especializado del proyecto (IAF-ARC-001) se analizó el estilo de redacción que deberá observar la documentación normativa generada dentro del ecosistema SIGLUX.
+
+Como resultado de dicho análisis se determinó que los documentos especializados cumplen una finalidad distinta a la de la Memoria Técnica.
+
+Mientras que la Memoria Técnica tiene por objeto registrar cronológicamente los hechos, análisis, discusiones, decisiones y circunstancias que acompañan la evolución del proyecto, los documentos especializados tienen como finalidad establecer disposiciones, criterios, reglas, procedimientos o especificaciones con carácter permanente.
+
+En consecuencia, se acordó que los documentos especializados deberán redactarse en tiempo presente, utilizando un lenguaje normativo, objetivo y atemporal, evitando incorporar referencias cronológicas, narrativas o circunstanciales propias del proceso histórico de desarrollo.
+
+Los antecedentes, razonamientos, discusiones, alternativas evaluadas y demás elementos históricos permanecerán exclusivamente documentados en la Memoria Técnica, desde donde podrán establecerse las relaciones documentales correspondientes.
+
+Esta separación permitirá distinguir claramente entre el registro histórico del proyecto y la documentación normativa que regula su funcionamiento.
+
+Estado: Validado.
+
+Observaciones: La adopción de este criterio fortalece la separación funcional entre la Memoria Técnica y los documentos especializados, preservando la naturaleza propia de cada uno y facilitando su mantenimiento, consulta y evolución.
+
+⸻
+
+MT-0030 - Procedimiento para la incorporación inmediata de propuestas metodológicas
+
+Durante el proceso de elaboración de la documentación especializada se identificó la necesidad de fortalecer el cumplimiento del principio de trazabilidad documental establecido para el ecosistema SIGLUX.
+
+Se observó que, durante la discusión técnica del proyecto, pueden surgir propuestas relacionadas con la metodología, la arquitectura, la gobernanza, los procedimientos de trabajo o cualquier otro aspecto susceptible de incorporarse posteriormente a la documentación especializada.
+
+Con el propósito de preservar íntegramente el origen de dichas propuestas y evitar que su registro dependa de una acción posterior, se acordó que toda propuesta de esta naturaleza deberá presentarse inmediatamente en formato de registro para la Memoria Técnica, antes de continuar con el desarrollo de cualquier otro documento o actividad.
+
+En consecuencia, cada vez que durante el desarrollo del proyecto se identifique un criterio, principio, política, procedimiento, metodología o cualquier otra aportación susceptible de convertirse en conocimiento institucional, ésta será presentada directamente como un nuevo registro de la Memoria Técnica, permitiendo su incorporación inmediata y manteniendo la continuidad del proceso de trazabilidad documental.
+
+Estado: Validado.
+
+Observaciones: Este procedimiento fortalece el papel de la Memoria Técnica como documento primario del ecosistema SIGLUX y evita que el conocimiento generado durante las sesiones de trabajo permanezca temporalmente fuera del sistema documental.
