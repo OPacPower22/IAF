@@ -645,3 +645,21 @@ Observaciones: Este acuerdo consolida el modelo de crecimiento orgánico de la d
 
 ⸻
 
+MT-0024 - Metodología para la elaboración de documentos especializados
+
+Como parte del proceso de consolidación metodológica del proyecto se revisó la forma en que deberán elaborarse los documentos especializados que integrarán el sistema documental de IAF.
+
+Durante el análisis se consideró la posibilidad de desarrollar dichos documentos de manera integral desde su primera versión. Sin embargo, tras evaluar la naturaleza evolutiva del proyecto y los principios metodológicos previamente adoptados, se concluyó que dicho procedimiento resultaría incongruente con la filosofía del ecosistema SIGLUX.
+
+En consecuencia, se acordó que los documentos especializados serán desarrollados de manera incremental, mediante un proceso de construcción por consenso, abordando cada uno de sus capítulos, apartados o secciones de forma independiente.
+
+Cada sección será objeto de análisis, discusión, revisión y validación antes de continuar con la siguiente, procurando que el documento evolucione de manera orgánica conforme avance la comprensión del proyecto y se consolide el conocimiento institucional.
+
+Asimismo, se determinó que ninguna sección será considerada definitiva hasta haber sido revisada y aprobada, pudiendo ser modificada durante el proceso de elaboración cuando el desarrollo del proyecto así lo justifique.
+
+Estado: Validado.
+
+Observaciones: Esta metodología permitirá que la documentación especializada refleje fielmente la evolución del proyecto y mantenga coherencia con los principios de trazabilidad, crecimiento orgánico y mejora continua establecidos para el ecosistema SIGLUX.
+
+⸻
+
