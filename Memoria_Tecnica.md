@@ -57,7 +57,7 @@ principios:
 
 4. Bitácora cronológica
 
-Hito 001 — Creación del repositorio
+MT 001 — Creación del repositorio
 
 Fecha: 02 de julio de 2026
 
@@ -76,7 +76,7 @@ Validado.
 
 ⸻
 
-Hito 002 — Estructura inicial del proyecto
+MT 002 — Estructura inicial del proyecto
 
 Fecha: 02 de julio de 2026
 
@@ -113,7 +113,7 @@ Validado.
 
 ⸻
 
-Hito 003 — Definición de la estrategia de ramas
+MT 003 — Definición de la estrategia de ramas
 
 Fecha: 02 de julio de 2026
 
@@ -142,7 +142,7 @@ Validado.
 
 ⸻
 
-Hito 004 — Publicación inicial mediante GitHub Pages
+MT 004 — Publicación inicial mediante GitHub Pages
 
 Fecha: 02 de julio de 2026
 
@@ -264,9 +264,7 @@ Se propone la siguiente nomenclatura:
 
 ⸻
 
-MT-0005
-
-Consolidación del repositorio institucional
+MT-0005 - Consolidación del repositorio institucional
 
 Con motivo del inicio formal del desarrollo del sitio web institucional de Iter ad Fraternitatem (IAF), se creó el repositorio oficial del proyecto en GitHub, estableciéndose como el medio institucional para el control de versiones, administración del código fuente y sincronización del desarrollo entre los distintos entornos de trabajo.
 
@@ -277,6 +275,45 @@ Como criterio metodológico, se acordó que las ramas de trabajo (feature/*) ser
 Asimismo, se estableció que ninguna implementación será considerada concluida hasta haber sido funcionalmente validada y asentada en la presente Memoria Técnica.
 
 Estado: Concluido y validado.
+
+⸻
+
+MT-0006 - Verificación de la infraestructura de publicación
+
+Como parte de la preparación del entorno de desarrollo, se habilitó el servicio GitHub Pages para la publicación del sitio institucional.
+
+Durante las primeras pruebas de despliegue se presentó una incidencia en el proceso de publicación, reportándose un error durante la fase de deployment, pese a que la compilación y generación del artefacto se realizaban correctamente.
+
+En atención al principio de diagnóstico previo a la corrección, se evitó realizar modificaciones inmediatas a la configuración del proyecto y se procedió a recopilar evidencia mediante la revisión de los registros de GitHub Actions, la configuración de GitHub Pages y el estado de los despliegues efectuados.
+
+El análisis permitió determinar que la infraestructura del repositorio se encontraba correctamente configurada y que el sitio permanecía accesible mediante la URL pública asignada.
+
+Posteriormente, la incidencia desapareció sin que fuera necesario modificar la configuración del proyecto, concluyéndose que el comportamiento observado correspondió a una falla temporal del propio servicio GitHub Pages.
+
+Como resultado de esta experiencia se reafirmó la conveniencia de documentar previamente toda incidencia técnica antes de ejecutar acciones correctivas, evitando modificaciones basadas únicamente en prueba y error.
+
+Estado: Incidencia cerrada.
+
+⸻
+
+MT-0007 - Identificación de documentación previa al inicio formal del proyecto
+
+Durante la revisión de los recursos disponibles en los distintos entornos de trabajo se identificó la existencia de documentación y materiales desarrollados con anterioridad a la creación del repositorio institucional.
+
+Entre los elementos localizados destacan:
+- Prototipos gráficos del sitio web institucional.
+- Desarrollo preliminar de la identidad visual de IAF.
+- Propuestas de sello institucional.
+- Organización inicial del directorio del proyecto.
+- Documento IAF-AC-001.md, correspondiente a la carpeta de Actas.
+
+Asimismo, se constató que el desarrollo había sido suspendido previamente con el propósito de estructurar el ecosistema SIGLUX antes de continuar con la implementación del sitio web.
+
+Se reconoció que actualmente existen diferencias entre la información almacenada en la computadora personal y la disponible en la tableta, consecuencia de que el repositorio institucional aún no existía durante las primeras etapas del proyecto.
+
+Por tal motivo, se acordó que la documentación previa será considerada material histórico del proyecto y será incorporada progresivamente al repositorio oficial conforme avance el proceso de revisión y normalización documental.
+
+Estado: En proceso de integración.  
 
 ⸻
 
