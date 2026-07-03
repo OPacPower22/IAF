@@ -627,3 +627,21 @@ Observaciones: La verificación realizada elimina la incertidumbre respecto a la
 
 ⸻
 
+MT-0023 - Determinación del orden de generación de la documentación especializada
+
+Concluida la verificación de la documentación existente y establecida la línea base documental del proyecto, se analizó el orden en que deberán elaborarse los documentos especializados que conformarán el sistema documental de IAF.
+
+Durante dicho análisis se descartó la conveniencia de generar simultáneamente todos los documentos previstos por la metodología SIGLUX, al considerarse que ello produciría una estructura documental anticipada cuya utilidad aún no se encuentra plenamente justificada.
+
+En su lugar, se acordó que cada documento especializado será elaborado únicamente cuando exista una necesidad real derivada del avance del proyecto, observando el principio metodológico previamente adoptado de que la estructura sigue a la necesidad documentada.
+
+Como consecuencia de este acuerdo, se determinó que el siguiente documento institucional por elaborar será IAF-ARC-000 – Arquitectura Física del Proyecto, por constituir el instrumento necesario para definir la organización física del proyecto antes de iniciar el desarrollo funcional del sitio web.
+
+Se acordó igualmente que los documentos posteriores serán desarrollados conforme las necesidades del proyecto lo requieran, evitando la creación anticipada de documentación sin aplicación inmediata.
+
+Estado: Validado.
+
+Observaciones: Este acuerdo consolida el modelo de crecimiento orgánico de la documentación institucional, garantizando que cada documento surja como respuesta a una necesidad concreta y previamente identificada.
+
+⸻
+
