@@ -381,3 +381,92 @@ Observaciones: La existencia de estos antecedentes confirma que el proceso actua
 
 ⸻
 
+MT-0011 - Reactivación formal del desarrollo del sitio web institucional
+
+Concluidas las actividades iniciales de organización del repositorio,validación de la infraestructura tecnológica y recuperación de la documentación histórica disponible, se determinó que existían las condiciones mínimas necesarias para reanudar formalmente el desarrollo del sitio web institucional de Iter ad Fraternitatem (IAF).
+
+Se acordó que el proyecto continuaría tomando como punto de partida la información previamente desarrollada, evitando reiniciar actividades que ya contaban con antecedentes documentales suficientes.
+
+Asimismo, se estableció que todo desarrollo posterior deberá conservar la continuidad histórica del proyecto, procurando que cada nueva decisión técnica pueda relacionarse con los antecedentes que le dieron origen.
+
+Estado: Concluido.
+
+Observaciones: La reactivación del proyecto no constituye el inicio absoluto del desarrollo, sino la continuación formal de un proceso previamente suspendido para permitir la consolidación metodológica del ecosistema SIGLUX.
+
+⸻
+
+MT-0012 - Definición de la línea base tecnológica
+
+Durante el análisis previo al reinicio del desarrollo se revisaron las alternativas tecnológicas disponibles para la implementación del sitio web institucional.
+
+Considerando el estado actual del proyecto, la necesidad de mantener una infraestructura sencilla y fácilmente administrable, así como la conveniencia de facilitar el desarrollo desde distintos entornos de trabajo, se decidió iniciar la implementación utilizando tecnologías web estándar.
+
+La línea base tecnológica quedó integrada inicialmente por:
+- HTML5.
+- CSS3.
+- JavaScript.
+- Git como sistema de control de versiones.
+- GitHub como repositorio institucional.
+- GitHub Pages como plataforma inicial de publicación.
+
+Se dejó constancia de que esta decisión corresponde únicamente a la etapa inicial del proyecto y podrá ser revisada conforme evolucionen los requerimientos funcionales del sistema.
+
+Estado: Concluido.
+
+Observaciones: Se privilegió una arquitectura tecnológica de baja complejidad con el propósito de concentrar los esfuerzos iniciales en la organización, estabilidad y documentación del proyecto antes de incorporar tecnologías adicionales.
+
+⸻
+
+MT0013 - Recuperación del prototipo funcional de la página principal
+
+Como parte del proceso de revisión de antecedentes se recuperó el prototipo funcional desarrollado previamente para la página principal del sitio web institucional.
+
+El análisis del material permitió identificar una propuesta integral que contempla, entre otros elementos:
+- Encabezado institucional.
+- Sistema de navegación.
+- Imagen principal.
+- Identidad visual.
+- Presentación institucional.
+- Línea del tiempo histórica.
+- Sección de valores.
+- Convocatoria para nuevos integrantes.
+- Área destinada al acceso de miembros.
+
+Asimismo, se recuperó la propuesta correspondiente al sistema de identidad visual de IAF, integrada por el sello institucional, principios gráficos, aplicaciones, paleta cromática y lineamientos tipográficos.
+
+Ambos documentos fueron reconocidos como antecedentes relevantes para el desarrollo del proyecto y serán utilizados como referencia durante las siguientes etapas de análisis y diseño.
+
+Estado: Registrado.
+
+Observaciones: La recuperación de estos materiales permitió confirmar que el proyecto posee un grado importante de madurez conceptual, reduciendo significativamente el trabajo requerido durante las fases iniciales de diseño funcional.
+
+⸻
+
+MT-0014 - Reorientación de la estrategia de desarrollo
+
+Como consecuencia del análisis de la documentación histórica recuperada, se reconsideró la estrategia inicialmente prevista para el desarrollo del sitio web.
+
+En lugar de elaborar un nuevo diseño desde sus fundamentos, se determinó que el proceso consistirá en revisar, validar y perfeccionar el prototipo existente, conservando aquellos elementos que continúen siendo compatibles con los objetivos institucionales de IAF y adecuando aquellos que requieran mejoras técnicas, funcionales o de accesibilidad.
+
+De igual forma, se acordó que el desarrollo del sitio deberá respetar la identidad institucional previamente definida, procurando mantener coherencia entre la arquitectura del sistema, la identidad gráfica y los contenidos históricos de la institución.
+
+Estado: Concluido.
+
+Observaciones: Esta decisión permitió transformar el enfoque del proyecto, pasando de un desarrollo basado en la creación de nuevos conceptos a un proceso de evolución controlada sobre una base previamente consolidada.
+
+⸻
+
+MT-0015 - Preparación para el inicio de la implementación funcional
+
+Concluidas las actividades de recuperación documental, estabilización tecnológica y organización del proyecto, se determinó que la siguiente etapa consistirá en iniciar la implementación gradual de la página principal del sitio web institucional.
+
+Se acordó que dicha implementación se desarrollará de manera incremental, verificando el funcionamiento de cada componente antes de continuar con el siguiente, procurando mantener permanentemente sincronizada la documentación técnica con el avance efectivo del proyecto.
+
+Asimismo, se reconoció que el desarrollo funcional constituirá la primera fase de implementación efectiva posterior a la consolidación metodológica del ecosistema SIGLUX.
+
+Estado: Pendiente de ejecución.
+
+Observaciones: La conclusión de esta etapa marca el cierre del periodo de preparación y el inicio formal de la fase de implementación del sitio web institucional.
+
+⸻
+
