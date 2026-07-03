@@ -552,3 +552,62 @@ Inicialmente se concebía la Memoria Técnica como un registro de actividades. D
 
 ⸻
 
+MT-0020 - Definición preliminar de la identidad institucional del sitio web
+
+Como parte de las actividades previas al inicio del desarrollo funcional del sitio web institucional, se revisó la identidad que deberá comunicar la interfaz principal del sistema.
+
+Durante el análisis inicial se propuso utilizar como elemento principal del encabezado el nombre del proyecto Iter ad Fraternitatem (IAF). Sin embargo, al revisar el propósito del sitio y el alcance institucional del proyecto, se concluyó que dicha propuesta no reflejaba correctamente la identidad de la institución a la cual estará dirigido el sitio.
+
+Después de analizar el objetivo de la plataforma se determinó que el sitio web corresponde institucionalmente a la Respetable Logia Simbólica Fraternidad No. 1, siendo IAF el proyecto tecnológico mediante el cual se desarrolla e implementa la solución informática.
+
+En consecuencia, se acordó que el encabezado principal del sitio identificará de manera visible a la institución mediante la siguiente composición:
+* Logotipo institucional.
+* Nombre: R.·.L.·.S.·. Fraternidad No. 1.
+* Lema institucional: "Tradición, conocimiento y fraternidad al servicio del perfeccionamiento humano."
+* Menú principal de navegación.
+
+Con esta decisión se busca que el visitante identifique inmediatamente a la institución titular del sitio, manteniendo a IAF como el proyecto responsable de su desarrollo y evolución tecnológica.
+
+Estado: Concluido y validado.
+
+Observaciones: Se determinó que la identidad institucional del sitio deberá prevalecer sobre la identidad del proyecto tecnológico que le da origen, evitando generar confusión respecto del propósito y titularidad de la plataforma.
+
+⸻
+
+MT-0021 - Definición preliminar de la paleta cromática institucional
+
+Como complemento a la definición de la identidad visual del sitio web, se revisaron las propuestas cromáticas desarrolladas durante etapas anteriores del proyecto y aquellas utilizadas recientemente en los materiales institucionales.
+
+Derivado de dicho análisis se acordó adoptar como línea base para el desarrollo de la interfaz la siguiente paleta cromática institucional:
+
+-------------------------------------------------------------------------------
+| Color	                 Código hexadecimal	           Aplicación preliminar.  |
+| Rojo institucional	      #C60800	                   - Color primario de     |
+|                                                      identidad institucional |
+|                                                      y elementos de énfasis. |
+|                                                                              |
+| Dorado institucional	    #EFB810	                   - Detalles decorativos, |
+|                                                      elementos simbólicos y  |
+|                                                      acentos visuales.       |
+|                                                                              |
+| Blanco	                   #FFFFFF	                 - Fondo principal del   |
+|                                                      sitio y áreas de lectura|
+|                                                                              |
+| Verde institucional	       #7BB369	                 - Color de apoyo para   |
+|                                                      elementos secundarios,  |
+|                                                      referencias al          |
+|                                                      crecimiento             |
+|                                                      institucional y recursos|
+|                                                      gráficos específicos.   |
+--------------------------------------------------------------------------------
+
+Se acordó igualmente que estos colores constituyen una definición preliminar para la implementación inicial del sitio web y que su utilización será posteriormente desarrollada y normalizada dentro del documento correspondiente al Sistema de Identidad Visual.
+
+Asimismo, se consideró conveniente que la implementación técnica del sitio adopte desde sus primeras etapas un sistema centralizado de variables de estilo, con el propósito de facilitar futuras modificaciones a la identidad visual sin afectar la estructura general de la interfaz.
+
+Estado: Concluido y validado.
+
+Observaciones: La adopción de esta paleta responde a la necesidad de mantener coherencia entre el sitio web y los materiales institucionales previamente desarrollados, procurando fortalecer la identidad gráfica de la Respetable Logia Simbólica Fraternidad No. 1.
+
+⸻
+
