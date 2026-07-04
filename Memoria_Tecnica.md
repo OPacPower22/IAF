@@ -863,3 +863,20 @@ Observaciones: El orden de la auditoría privilegiará la comprensión progresiv
 
 ⸻
 
+MT-0036
+Auditoría simplificada de directorios con documentación sin contenido
+
+Como parte de la Auditoría de Recuperación Documental del proyecto IAF, se revisaron los directorios que contienen documentos previamente creados pero sin contenido sustancial.
+
+Durante la revisión se confirmó que dichos documentos corresponden a estructuras iniciales elaboradas antes de la adopción de la metodología documental del ecosistema SIGLUX y que, en su estado actual, no contienen información susceptible de ser auditada desde el punto de vista técnico o metodológico.
+
+En consecuencia, se determinó que la auditoría de estos directorios se realizará mediante un procedimiento simplificado, consistente en verificar la finalidad de la categoría documental, confirmar la existencia de los documentos correspondientes y emitir un dictamen respecto de su permanencia dentro del proyecto.
+
+Se acordó igualmente que los documentos vacíos no serán eliminados durante la auditoría, sino que conservarán su identificador documental y serán desarrollados únicamente cuando la evolución del proyecto justifique su elaboración, observando en todo momento el principio conforme al cual la estructura sigue a la necesidad documentada.
+
+Estado: Validado.
+
+Observaciones: La aplicación del procedimiento simplificado permitirá concentrar el esfuerzo de auditoría en aquellos documentos que contengan información sustancial, sin afectar la integridad de la arquitectura documental del proyecto.
+
+⸻
+
