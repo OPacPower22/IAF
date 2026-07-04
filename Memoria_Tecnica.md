@@ -931,3 +931,24 @@ Observaciones: Los documentos recuperados pasarán a formar parte del patrimonio
 
 ⸻
 
+MT-0039
+Validación del Capítulo 7 de IAF-ARC-001 y formalización del Catálogo de Directorios Autorizados
+
+Como parte del desarrollo del documento IAF-ARC-001 – Arquitectura Física del Proyecto, se concluyó y validó el Capítulo 7, correspondiente al Catálogo de Directorios Autorizados.
+
+Durante su elaboración se revisó la estructura física existente en el repositorio, contrastándola con los principios arquitectónicos previamente establecidos y con los resultados obtenidos durante la Auditoría de Recuperación Documental.
+
+Del análisis efectuado se concluyó que la estructura recuperada no debía incorporarse automáticamente como parte de la arquitectura del proyecto por el simple hecho de existir físicamente, sino que debía someterse previamente a un proceso de evaluación arquitectónica.
+
+Como resultado de dicha evaluación se determinó que las categorías estructurales originalmente previstas continúan siendo compatibles con la metodología del ecosistema SIGLUX, por lo que se acordó incorporarlas al documento IAF-ARC-001 como Catálogo de Directorios Autorizados.
+
+Se estableció igualmente que la incorporación de un directorio al catálogo constituye una autorización arquitectónica para su utilización, pero no implica su creación inmediata dentro del repositorio.
+
+La materialización física de cada directorio continuará dependiendo de la existencia de una necesidad previamente documentada, manteniéndose plenamente vigente el principio conforme al cual la estructura sigue a la necesidad documentada.
+
+Estado: Validado.
+
+Observaciones: Con la aprobación del presente capítulo, la estructura física del proyecto deja de depender de decisiones circunstanciales y pasa a estar regulada por una arquitectura documental formalmente establecida.
+
+⸻
+
