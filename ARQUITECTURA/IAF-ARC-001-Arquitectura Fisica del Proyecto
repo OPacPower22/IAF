@@ -93,3 +93,106 @@ MT-0023
 MT-0025
 MT-0030
 
+⸻
+
+5. Principios de la Arquitectura Física
+La arquitectura física del proyecto IAF se fundamenta en los siguientes 
+principios,los cuales orientan la organización estructural del proyecto y 
+constituyen el marco de referencia para su evolución.
+
+Los principios establecidos en este capítulo deberán observarse de manera 
+conjunta y armónica, procurando preservar la coherencia de la arquitectura 
+durante todo el ciclo de vida del proyecto.
+
+⸻
+
+5.1 Principio de crecimiento orgánico
+
+La arquitectura física del proyecto evolucionará únicamente cuando exista una 
+necesidad real, actual y debidamente documentada.
+
+En consecuencia, no deberán incorporarse directorios, archivos, componentes o 
+cualquier otro elemento estructural cuya existencia responda únicamente a 
+previsiones, posibilidades futuras o criterios especulativos.
+
+Toda incorporación a la arquitectura física deberá justificarse por la existencia
+de un recurso concreto que requiera formar parte del proyecto.
+
+Este principio tiene por finalidad mantener una arquitectura simple, coherente, 
+mantenible y proporcional al estado real del proyecto.
+
+Fundamento documental
+MT-0017
+MT-0018
+MT-0023
+
+5.2 Principio de correspondencia entre estructura y contenido
+
+Todo elemento estructural deberá contener información, recursos o componentes 
+acordes con la finalidad para la cual fue creado.
+
+La existencia de un directorio presupone la existencia de un contenido que 
+justifique su incorporación a la arquitectura del proyecto.
+
+No deberán mantenerse directorios vacíos ni estructuras cuyo propósito no pueda
+identificarse claramente.
+
+La organización física del proyecto deberá reflejar en todo momento su estado 
+real de desarrollo.
+
+Fundamento documental
+MT-0017
+MT-0023
+MT-0025
+
+5.3 Principio de evolución controlada
+
+La arquitectura física constituye un modelo evolutivo.
+Toda modificación de su estructura deberá responder a una necesidad identificada
+durante el desarrollo del proyecto y realizarse de forma controlada, procurando
+preservar la estabilidad de la organización existente.
+
+Las modificaciones estructurales deberán minimizar el impacto sobre los recursos
+previamente incorporados y evitar reorganizaciones innecesarias.
+
+Fundamento documental
+MT-0023
+MT-0025
+MT-0027
+
+5.4 Principio de trazabilidad documental
+
+Toda decisión que modifique la arquitectura física del proyecto deberá poder 
+relacionarse con los registros correspondientes de la Memoria Técnica.
+
+La evolución de la estructura física conservará evidencia documental suficiente
+para identificar el origen, fundamento y justificación de cada cambio 
+significativo incorporado a la arquitectura del proyecto.
+
+Este principio garantiza la reconstrucción histórica del proceso de toma de 
+decisiones y preserva la continuidad metodológica del ecosistema SIGLUX.
+
+Fundamento documental
+MT-0019
+MT-0027
+MT-0028
+MT-0030
+
+5.5 Principio de simplicidad estructural
+
+La arquitectura física deberá mantenerse tan simple como resulte compatible 
+con las necesidades reales del proyecto.
+
+No deberán incorporarse niveles jerárquicos, subdivisiones o mecanismos 
+organizativos cuya utilidad práctica no se encuentre plenamente justificada.
+
+La simplicidad constituye un criterio permanente de calidad arquitectónica y 
+deberá prevalecer durante la evolución del proyecto.
+
+Fundamento documental
+MT-0017
+MT-0018
+MT-0023
+
+⸻
+
