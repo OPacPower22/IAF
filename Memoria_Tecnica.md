@@ -903,3 +903,31 @@ Observaciones: El documento conserva un alto valor institucional al representar 
 
 ⸻
 
+MT-0038
+Dictamen de la Auditoría de Recuperación Documental (ARD)
+
+Como resultado de la Auditoría de Recuperación Documental realizada sobre el repositorio local del proyecto Iter ad Fraternitatem (IAF), se concluyó el proceso de revisión de la documentación y estructura física existente con anterioridad a la consolidación metodológica del ecosistema SIGLUX.
+
+La auditoría comprendió la revisión de los directorios recuperados, la verificación de los documentos existentes y la evaluación de su compatibilidad con la metodología actualmente adoptada para el proyecto.
+
+Del análisis efectuado se obtuvieron los siguientes resultados:
+
+Se confirmó la existencia de una estructura documental inicial elaborada durante las primeras etapas del proyecto.
+Se verificó que la mayoría de los documentos recuperados constituyen estructuras o plantillas sin contenido sustancial.
+Se identificó como único documento con contenido relevante IAF-ANL-001, el cual fue sometido a auditoría documental completa.
+Como resultado de dicha auditoría se emitió dictamen de Conservar y actualizar, al considerarse que el documento mantiene plena vigencia conceptual y constituye el primer planteamiento formal del proyecto, requiriendo únicamente su armonización con la metodología del ecosistema SIGLUX.
+Se determinó que los restantes documentos vacíos conservarán su identificador documental y serán desarrollados únicamente cuando exista una necesidad real y documentada que justifique su elaboración.
+Se acordó que los archivos auxiliares propios del repositorio (README.md, CHANGELOG.md, LICENSE y .gitignore) permanecerán dentro del proyecto por corresponder a elementos propios de la administración y configuración del repositorio, independientemente de que su contenido sea desarrollado en etapas posteriores.
+
+Como conclusión de la auditoría se determinó que no existe documentación previa que entre en conflicto con la arquitectura metodológica actualmente adoptada, por lo que el proyecto podrá continuar su desarrollo tomando como línea base la documentación generada bajo el ecosistema SIGLUX.
+
+En consecuencia, se declara formalmente concluida la Auditoría de Recuperación Documental (ARD) y se autoriza la reanudación de la elaboración de los documentos especializados del proyecto.
+
+Dictamen general: Auditoría concluida satisfactoriamente.
+
+Estado: Validado.
+
+Observaciones: Los documentos recuperados pasarán a formar parte del patrimonio documental del proyecto y evolucionarán conforme a las necesidades del mismo, preservando en todo momento la trazabilidad establecida por la metodología SIGLUX.
+
+⸻
+
