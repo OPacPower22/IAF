@@ -1,0 +1,95 @@
+IAF-ARC-001 - Arquitectura Física del Proyecto
+
+Versión: 0.1.0
+
+Estado: En elaboración
+
+1. Control documental
+
+Campo	                      Información
+
+Código documental	          IAF-ARC-001
+Nombre del documento	      Arquitectura Física del Proyecto
+Clasificación documental    Arquitectura
+Versión.                  	0.1.0
+Estado	                    En elaboración
+Proyecto	                  Iter ad Fraternitatem (IAF)
+Metodología	                Ecosistema SIGLUX
+Documento de origen	        IAF-GOB-001 – Memoria Técnica
+
+Fundamento documental
+MT-0025
+MT-0026
+MT-0027
+
+2. Naturaleza del documento
+
+El presente documento establece la arquitectura física autorizada para el 
+proyecto Iter ad Fraternitatem (IAF).
+
+Define los criterios que regulan la organización física del proyecto mediante 
+la disposición de directorios, archivos y demás recursos que conforman su 
+estructura material.
+
+La arquitectura física constituye el marco de referencia para la organización 
+del proyecto y proporciona las bases necesarias para preservar la coherencia 
+estructural, la mantenibilidad, la escalabilidad y la trazabilidad durante todo 
+su ciclo de vida.
+
+La arquitectura aquí establecida posee carácter evolutivo. Su desarrollo 
+responde exclusivamente a necesidades previamente documentadas y validadas, 
+evitando la incorporación anticipada de estructuras cuya utilidad no haya sido 
+plenamente justificada.
+
+Las disposiciones contenidas en este documento son de observancia para todos los
+recursos que integren el proyecto y deberán interpretarse de manera consistente 
+con la metodología del ecosistema SIGLUX.
+
+Fundamento documental
+MT-0018
+MT-0019
+MT-0023
+MT-0024
+MT-0028
+MT-0030
+
+3. Objeto
+
+El presente documento tiene por objeto establecer la organización física 
+autorizada del proyecto IAF, definiendo los criterios que regulan la creación, 
+organización, evolución y mantenimiento de su estructura física.
+
+Asimismo, establece las bases que permiten conservar una organización coherente, 
+uniforme y escalable, garantizando que cada elemento incorporado responda a una 
+necesidad previamente documentada.
+
+Fundamento documental
+MT-0018
+MT-0023
+MT-0025
+MT-0030
+
+4. Alcance
+
+Las disposiciones contenidas en este documento son aplicables a la totalidad de 
+los recursos físicos que integran el proyecto IAF.
+
+Comprenden, entre otros:
+- Directorios.
+- Archivos.
+- Código fuente.
+- Recursos gráficos.
+- Recursos multimedia.
+- Componentes reutilizables.
+- Plantillas.
+- Documentación técnica.
+- Documentación institucional.
+
+Todo recurso incorporado al proyecto deberá ajustarse a la arquitectura física 
+establecida en el presente documento.
+
+Fundamento documental
+MT-0023
+MT-0025
+MT-0030
+
