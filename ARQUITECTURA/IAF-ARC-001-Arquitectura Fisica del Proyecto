@@ -316,3 +316,57 @@ MT-0031
 
 ⸻
 
+7. Catálogo de Directorios Autorizados
+7.1 Naturaleza del catálogo
+
+El presente catálogo establece los directorios de primer nivel cuya existencia podrá formar parte de la arquitectura física del proyecto IAF.
+
+La incorporación de un directorio al presente catálogo constituye una autorización arquitectónica para su utilización cuando exista una necesidad documentada que justifique su creación.
+
+La inclusión de un directorio en este catálogo no implica su creación inmediata dentro del repositorio ni obliga a su utilización durante el desarrollo del proyecto.
+
+La materialización física de cada directorio continuará observando los principios establecidos en el presente documento, particularmente el principio conforme al cual la estructura sigue a la necesidad documentada.
+
+Fundamento documental
+MT-0018
+MT-0023
+MT-0033
+MT-0038
+7.2 Directorios autorizados
+
+Se autorizan las siguientes categorías estructurales para el proyecto IAF.
+
+Código	Directorio	Finalidad
+00_IAF-REP	Repositorio	Recursos propios de la administración del repositorio.
+01_IAF-STD	Estándares	Estándares técnicos, metodológicos y de desarrollo.
+02_IAF-ANL	Análisis	Estudios, análisis, requerimientos y documentación analítica.
+03_IAF-GOB	Gobernanza	Documentación normativa y de gobernanza del proyecto.
+04_IAF-IDN	Identidad	Identidad institucional, marca y recursos gráficos.
+05_IAF-ARC	Arquitectura	Arquitectura física, lógica y tecnológica.
+06_IAF-DEV	Desarrollo	Desarrollo de software y componentes técnicos.
+07_IAF-TST	Pruebas	Evidencias y documentación de pruebas.
+08_IAF-AUD	Auditoría	Auditorías técnicas, metodológicas y documentales.
+09_IAF-MAN	Manuales	Manuales técnicos, funcionales y de usuario.
+10_IAF-REL	Publicaciones	Versiones liberadas y documentación asociada.
+20_IAF-HIS	Histórico	Conservación de antecedentes y documentación archivada.
+7.3 Incorporación de nuevos directorios
+
+La creación de nuevos directorios de primer nivel requerirá la actualización previa del presente documento.
+
+Toda propuesta de incorporación deberá justificar:
+
+la necesidad del nuevo directorio;
+la imposibilidad de satisfacer dicha necesidad mediante la estructura existente;
+el impacto esperado sobre la arquitectura física;
+la compatibilidad con los principios establecidos en este documento.
+
+La autorización de nuevos directorios deberá conservar evidencia documental de su origen y mantener la correspondiente trazabilidad con la Memoria Técnica.
+
+Fundamento documental
+MT-0017
+MT-0023
+MT-0028
+MT-0033
+
+⸻
+
