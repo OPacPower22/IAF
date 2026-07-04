@@ -195,4 +195,69 @@ MT-0018
 MT-0023
 
 ⸻
+6. Arquitectura del Directorio Raíz del Proyecto
+
+6.1 Finalidad
+
+El directorio raíz constituye el nivel superior de la arquitectura física del 
+proyecto IAF.
+
+Su finalidad consiste en organizar los recursos que integran el proyecto mediante
+una estructura simple, coherente y evolutiva, permitiendo su crecimiento ordenado
+conforme a las necesidades documentadas del proyecto.
+
+La organización del directorio raíz deberá facilitar la identificación de los 
+componentes principales del proyecto, evitando estructuras innecesariamente 
+complejas o jerarquías cuya existencia no se encuentre plenamente justificada.
+
+Fundamento documental
+MT-0018
+MT-0023
+MT-0025
+MT-0031
+
+6.2 Criterios de organización
+
+La organización del directorio raíz observará los siguientes criterios generales:
+
+I. Cada elemento deberá poseer una finalidad claramente identificable.
+II. Ningún directorio será creado sin que exista previamente un recurso que 
+justifique su incorporación.
+III. La organización física deberá reflejar el estado real del proyecto y no 
+escenarios hipotéticos de desarrollo.
+IV. La incorporación de nuevos directorios procurará mantener la simplicidad y 
+legibilidad de la estructura general.
+V. Toda modificación significativa de la arquitectura física deberá preservar la
+coherencia estructural del proyecto.
+
+Fundamento documental
+MT-0017
+MT-0018
+MT-0023
+MT-0031
+
+6.3 Directorios de primer nivel
+
+El directorio raíz contendrá únicamente aquellos directorios cuya existencia 
+resulte indispensable para el funcionamiento, administración o evolución del 
+proyecto.
+
+La incorporación de un nuevo directorio de primer nivel requerirá que su 
+finalidad no pueda satisfacerse razonablemente dentro de la estructura existente.
+
+Como criterio general, se privilegiará la incorporación de nuevos recursos dentro
+de directorios ya existentes antes que la creación de nuevas categorías en el 
+nivel raíz.
+
+La estructura del directorio raíz evolucionará conforme al crecimiento del 
+proyecto, manteniendo en todo momento el principio de crecimiento orgánico 
+establecido en el presente documento.
+
+Fundamento documental
+MT-0017
+MT-0023
+MT-0025
+MT-0031
+
+⸻
 
