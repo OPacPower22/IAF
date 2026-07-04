@@ -766,3 +766,24 @@ En consecuencia, cada vez que durante el desarrollo del proyecto se identifique 
 Estado: Validado.
 
 Observaciones: Este procedimiento fortalece el papel de la Memoria Técnica como documento primario del ecosistema SIGLUX y evita que el conocimiento generado durante las sesiones de trabajo permanezca temporalmente fuera del sistema documental.
+
+⸻
+
+MT-0031 - Validación del bloque inicial de IAF-ARC-001 y refinamiento de la estructura de los principios arquitectónicos.
+
+Durante la elaboración del documento IAF-ARC-001 – Arquitectura Física del Proyecto, se desarrolló y validó el primer bloque estructural del documento, integrado por los capítulos correspondientes al Control Documental, Naturaleza del Documento, Objeto, Alcance y Principios de la Arquitectura Física.
+
+Durante la revisión técnica del Capítulo 5 se analizó la estructura utilizada para documentar cada uno de los principios arquitectónicos, observándose que, además del enunciado, su desarrollo y el fundamento documental correspondiente, resultaba conveniente incorporar un elemento que facilitara la interpretación práctica de cada principio dentro del proyecto.
+
+Como resultado de dicho análisis se acordó que cada principio incorporado a los documentos especializados podrá incluir un apartado denominado "Implicaciones", cuya finalidad consistirá en describir las consecuencias prácticas derivadas de la aplicación del principio correspondiente.
+
+Se determinó que este apartado no constituye una regla independiente ni introduce nuevas disposiciones normativas, sino que facilita la correcta interpretación del principio y orienta su aplicación dentro del proyecto.
+
+Con esta incorporación se busca fortalecer la claridad de los documentos especializados, favoreciendo una interpretación uniforme de sus disposiciones sin alterar la naturaleza conceptual de los principios arquitectónicos.
+
+Estado: Validado.
+
+Observaciones: La incorporación del apartado "Implicaciones" representa un refinamiento de la metodología de redacción de los documentos especializados y mejora la transición entre los principios generales y las reglas específicas que posteriormente desarrollarán dichos documentos.
+
+⸻
+
