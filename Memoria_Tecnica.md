@@ -844,3 +844,22 @@ Observaciones: La auditoría documental permitirá recuperar el conocimiento pre
 
 ⸻
 
+MT-0035
+Criterio para el orden de ejecución de la Auditoría de Recuperación Documental
+
+Como parte de la planificación de la Auditoría de Recuperación Documental se analizó el orden en que deberán revisarse los directorios y documentos recuperados del proyecto.
+
+Inicialmente se consideró comenzar por aquellos documentos que contenían mayor desarrollo. Sin embargo, tras revisar la organización existente del repositorio, se determinó que resulta metodológicamente más adecuado iniciar la auditoría por el directorio 00_IAF-REP, por constituir el nivel inicial de la estructura documental del proyecto.
+
+Se acordó que la auditoría seguirá el orden lógico de la arquitectura física, iniciando por los directorios de menor numeración y avanzando progresivamente hacia los niveles siguientes, procurando comprender primero la estructura general del proyecto antes de evaluar el contenido particular de cada documento.
+
+Asimismo, se determinó que el documento ESTRUCTURA-PROYECTO será objeto de revisión prioritaria, por estimarse que puede contener información relevante para comprender la organización originalmente prevista para el proyecto y facilitar su comparación con la arquitectura actualmente en desarrollo.
+
+Finalmente, se acordó que los archivos auxiliares o de referencia que no contengan información sustancial, tales como README.md, CHANGELOG.md, LICENSE o .gitignore, serán evaluados posteriormente para determinar si procede su actualización, sustitución o eliminación conforme a la metodología vigente del ecosistema SIGLUX.
+
+Estado: Validado.
+
+Observaciones: El orden de la auditoría privilegiará la comprensión progresiva de la arquitectura del proyecto sobre la revisión aislada de documentos individuales.
+
+⸻
+
