@@ -787,3 +787,41 @@ Observaciones: La incorporación del apartado "Implicaciones" representa un refi
 
 ⸻
 
+MT-0032 - Conclusión y validación del Capítulo 6 de IAF-ARC-001
+
+Como parte de la elaboración del documento IAF-ARC-001 – Arquitectura Física del Proyecto, se desarrolló y validó el Capítulo 6, correspondiente a la arquitectura del directorio raíz del proyecto.
+
+Durante su elaboración se definieron los criterios generales que regulan la organización estructural del nivel superior de la arquitectura física, estableciendo que el directorio raíz constituye el punto de organización principal del proyecto y que su evolución deberá responder a criterios de simplicidad, coherencia y crecimiento orgánico.
+
+Asimismo, se establecieron los criterios para la incorporación de nuevos directorios de primer nivel, determinándose que su creación deberá responder a una necesidad previamente documentada y que, antes de incorporar nuevas categorías estructurales, deberá evaluarse la posibilidad de integrar los nuevos recursos dentro de la estructura existente.
+
+Finalmente, se definieron las bases para la evolución controlada de la arquitectura física, procurando preservar la estabilidad estructural del proyecto y minimizar el impacto derivado de futuras reorganizaciones.
+
+Estado: Validado.
+
+Observaciones: La conclusión del Capítulo 6 establece las bases que permitirán definir la estructura física autorizada del proyecto sin depender de implementaciones particulares o circunstancias temporales.
+
+⸻
+
+MT-0033 - Distinción entre arquitectura autorizada y estructura física implementada
+
+Durante la revisión del contenido correspondiente al Capítulo 6 de IAF-ARC-001, se analizó la conveniencia de incorporar de manera inmediata la relación de directorios existentes dentro del proyecto.
+
+Como resultado del análisis se concluyó que un documento de arquitectura no debe limitarse a describir la estructura física existente en un momento determinado, sino establecer el marco estructural autorizado dentro del cual podrá evolucionar el proyecto.
+
+En consecuencia, se acordó distinguir conceptualmente entre la arquitectura autorizada y la estructura física implementada.
+
+La arquitectura autorizada define los directorios y categorías estructurales que podrán formar parte del proyecto cuando exista una necesidad documentada que justifique su incorporación.
+
+Por su parte, la estructura física implementada representa únicamente aquellos elementos que han sido efectivamente materializados dentro del repositorio en un momento determinado.
+
+Derivado de esta distinción se determinó que el siguiente capítulo de IAF-ARC-001 contendrá un Catálogo de Directorios Autorizados, el cual establecerá las categorías estructurales aprobadas por la arquitectura sin implicar que todas ellas deban existir físicamente desde el inicio del proyecto.
+
+Se acordó igualmente que la materialización de dichos directorios continuará observando el principio metodológico conforme al cual la estructura sigue a la necesidad documentada.
+
+Estado: Validado.
+
+Observaciones: Esta determinación fortalece la separación entre la arquitectura normativa y la implementación física del proyecto, permitiendo que ambas evolucionen de manera consistente sin perder coherencia metodológica ni trazabilidad documental.
+
+⸻
+
