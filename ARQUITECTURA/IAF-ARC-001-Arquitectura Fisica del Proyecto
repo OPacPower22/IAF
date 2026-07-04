@@ -195,6 +195,7 @@ MT-0018
 MT-0023
 
 ⸻
+
 6. Arquitectura del Directorio Raíz del Proyecto
 
 6.1 Finalidad
@@ -257,6 +258,60 @@ Fundamento documental
 MT-0017
 MT-0023
 MT-0025
+MT-0031
+
+6.4 Proceso para la incorporación de directorios de primer nivel
+
+La incorporación de un nuevo directorio de primer nivel constituye una 
+modificación de la arquitectura física del proyecto y, por tanto, deberá 
+responder a un proceso de análisis previamente documentado.
+
+Todo nuevo directorio deberá justificarse mediante la identificación de una 
+necesidad que no pueda ser atendida de manera razonable dentro de la estructura
+existente.
+
+Antes de autorizar su incorporación deberán evaluarse, al menos, los siguientes 
+aspectos:
+
+I. Finalidad del directorio.
+II. Recursos que contendrá.
+III. Relación con la estructura existente.
+IV. Impacto sobre la organización general del proyecto.
+V. Necesidad de su permanencia dentro de la arquitectura.
+
+Cuando el análisis determine que los recursos pueden organizarse adecuadamente 
+dentro de un directorio ya existente, deberá privilegiarse dicha alternativa 
+sobre la creación de una nueva categoría estructural.
+
+La creación de directorios de primer nivel deberá constituir una excepción y no una práctica habitual.
+
+Fundamento documental
+MT-0017
+MT-0018
+MT-0023
+MT-0025
+MT-0031
+
+6.5 Evolución de la estructura física
+
+La arquitectura física del proyecto posee carácter evolutivo.
+
+Su crecimiento deberá producirse de forma gradual, procurando conservar la 
+estabilidad estructural y evitando reorganizaciones que no aporten beneficios 
+claramente identificables para el proyecto.
+
+La incorporación, reorganización o eliminación de elementos estructurales deberá
+realizarse procurando minimizar el impacto sobre la documentación, el código 
+fuente y los recursos previamente incorporados.
+
+Toda evolución de la arquitectura física deberá preservar la coherencia general 
+del proyecto y facilitar su mantenimiento a largo plazo.
+
+Fundamento documental
+MT-0018
+MT-0023
+MT-0025
+MT-0028
 MT-0031
 
 ⸻
