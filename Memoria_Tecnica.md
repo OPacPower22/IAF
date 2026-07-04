@@ -880,3 +880,26 @@ Observaciones: La aplicación del procedimiento simplificado permitirá concentr
 
 ⸻
 
+MT-0037
+Dictamen de auditoría del documento IAF-ANL-001
+
+Como parte de la Auditoría de Recuperación Documental se realizó la revisión integral del documento IAF-ANL-001 – Acta de Inicio del Proyecto (Project Charter).
+
+Del análisis efectuado se concluyó que el documento conserva plena vigencia respecto de los objetivos institucionales, la justificación del proyecto, su naturaleza, alcance y principios generales, constituyendo el primer planteamiento formal del proyecto IAF.
+
+No obstante, se identificó que el documento fue elaborado con anterioridad a la consolidación metodológica del ecosistema SIGLUX, por lo que determinados apartados ya no reflejan el estado actual del proyecto.
+
+Entre los aspectos susceptibles de actualización se identifican principalmente la incorporación de la Memoria Técnica como origen documental del proyecto, la consolidación del modelo de gobernanza documental, la evolución de la arquitectura física, la adopción formal del ecosistema SIGLUX como metodología institucional y la redefinición de la estructura documental conforme a los documentos especializados actualmente en desarrollo.
+
+Como resultado de la auditoría se emitió el siguiente dictamen:
+
+Dictamen: Conservar y actualizar.
+
+Se determinó que el documento no será sustituido ni archivado, sino revisado y actualizado oportunamente para alinearlo con la metodología vigente, preservando el trabajo previamente realizado y aprovechando los elementos conceptuales que continúan siendo plenamente válidos.
+
+Estado: Validado.
+
+Observaciones: El documento conserva un alto valor institucional al representar el primer planteamiento formal del proyecto IAF y constituye un antecedente relevante para la evolución metodológica del ecosistema SIGLUX.
+
+⸻
+
