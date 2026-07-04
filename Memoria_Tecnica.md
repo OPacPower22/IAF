@@ -825,3 +825,22 @@ Observaciones: Esta determinación fortalece la separación entre la arquitectur
 
 ⸻
 
+MT-0034
+Auditoría del repositorio local y recuperación de documentación preexistente
+
+Durante la revisión del entorno local de desarrollo se llevó a cabo una auditoría de la estructura física del proyecto IAF con el propósito de verificar la existencia de documentación elaborada con anterioridad al establecimiento del repositorio institucional.
+
+Como resultado de dicha auditoría se confirmó la existencia de directorios, documentos y recursos previamente desarrollados, algunos de ellos con contenido y otros únicamente como estructura inicial o plantillas de trabajo.
+
+Derivado de esta verificación se dejó sin efectos la hipótesis de inexistencia absoluta de documentación previa y se determinó que dichos elementos deberán ser objeto de revisión individual antes de decidir su incorporación, actualización, sustitución o eliminación.
+
+Se acordó que ningún documento preexistente será descartado o incorporado automáticamente. Cada uno será sometido a un proceso de auditoría documental con el propósito de determinar su vigencia, compatibilidad con la metodología SIGLUX y utilidad para el desarrollo del proyecto.
+
+Asimismo, se determinó que los directorios y archivos carentes de contenido o de una finalidad plenamente justificada podrán ser eliminados, procurando mantener una arquitectura física consistente con el principio de crecimiento orgánico previamente adoptado.
+
+Estado: Validado.
+
+Observaciones: La auditoría documental permitirá recuperar el conocimiento previamente generado, evitando duplicidades y preservando únicamente aquellos elementos compatibles con la arquitectura metodológica vigente del proyecto.
+
+⸻
+
