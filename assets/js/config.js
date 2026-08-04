@@ -3,8 +3,8 @@
  * Edita estas dos constantes cuando despliegues el ERP y la Biblioteca Virtual.
  */
 const SITIO_CONFIG = {
-  // URL de la web app de Fraternitas-ERP (deployment de producción @16).
-  ERP_URL: "https://script.google.com/macros/s/AKfycbzPNHIyCb67VTfXHC8gIFvCj9a3E7KLxhwWcDcRBvyALYQ9974H0pDaVl25-4zc98R1/exec",
+  // URL de acceso a Fraternitas-ERP (sucesor del prototipo en Apps Script, ya descontinuado).
+  ERP_URL: "http://fraternitas.local:8000/login/",
 
   // URL pública de la Biblioteca Virtual (repo biblioteca-virtual, GitHub Pages).
   BIBLIOTECA_VIRTUAL_URL: "https://opacpower22.github.io/biblioteca-virtual/"
