@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "\nTeléfono: " + datos.get("telefono") +
         "\n\nMensaje:\n" + datos.get("mensaje")
       );
-      window.location.href = "mailto:contacto@fraternidadno1.org?subject=" + asunto + "&body=" + cuerpo;
+      window.location.href = "mailto:fraternidad.num1@gmail.com?subject=" + asunto + "&body=" + cuerpo;
     });
   }
 });
