@@ -237,7 +237,8 @@ h1,h2,h3,h4{
 }
 .valor{text-align:center;}
 .valor .icono-valor{
-  width:56px;height:56px;margin:0 auto 14px;color:var(--verde);
+  width:56px;height:56px;margin:0 auto 14px;
+  object-fit:contain;
 }
 .valor h3{font-size:1.1rem;margin-bottom:6px;}
 .valor p{color:var(--texto-tenue);font-size:.98rem;}
