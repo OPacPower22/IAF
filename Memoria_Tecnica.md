@@ -952,3 +952,29 @@ Observaciones: Con la aprobación del presente capítulo, la estructura física 
 
 ⸻
 
+MT-0040
+Implementación funcional del sitio web institucional y conexión con el ecosistema Fraternitas
+
+Como continuación del desarrollo del proyecto Iter ad Fraternitatem (IAF), se llevó a cabo la implementación funcional completa del sitio web institucional de la Respetable Logia Simbólica Fraternidad No. 1, así como su conexión con dos sistemas externos del ecosistema institucional: Fraternitas-ERP (sistema de gestión administrativa y financiera) y una Biblioteca Virtual de acceso público.
+
+Por razones de continuidad operativa, esta actividad se ejecutó de manera consolidada en lugar de fragmentarse en asientos individuales conforme al procedimiento ordinario establecido en MT-0008, quedando registrada en un único asiento retrospectivo. Se acuerda retomar el régimen de una actividad a la vez para el desarrollo subsecuente del proyecto.
+
+Las actividades realizadas comprenden:
+
+* Implementación de las páginas Inicio, Historia, Galería, Biblioteca, Preguntas Frecuentes y Contacto, conforme a la identidad institucional definida en MT-0020.
+* Construcción de un sistema de variables de estilo centralizado en assets/css/style.css.
+* Reorganización de la estructura física del sitio para ajustarse al Catálogo de Directorios Autorizados de IAF-ARC-001 (carpetas assets/css, assets/js, assets/img), sustituyendo la organización preliminar utilizada durante el desarrollo inicial.
+* Elaboración de un emblema institucional (sello y marca) en formato SVG como recurso provisional, ante la ausencia de los archivos originales de las artes gráficas recuperadas como antecedente. Dicho emblema deberá sustituirse cuando se disponga de las artes definitivas.
+* Incorporación del módulo Biblioteca al proyecto Fraternitas-ERP (gestión de acervo, préstamos y devoluciones), incluyendo su despliegue en el entorno de producción correspondiente.
+* Creación de un proyecto independiente de Biblioteca Virtual (catálogo digital de acceso público), distinto del módulo Biblioteca de Fraternitas-ERP, el cual continúa reservado a la gestión interna de préstamos físicos.
+
+Durante la ejecución se presentó una incidencia relevante: la implementación inicial de la paleta cromática del sitio se desarrolló siguiendo el antecedente gráfico recuperado (mockup oscuro), sin verificar previamente su compatibilidad con la paleta institucional ya validada en MT-0021. Al advertirse la discrepancia, se corrigió la implementación para ajustarse íntegramente a la paleta validada (rojo #C60800, dorado #EFB810, blanco #FFFFFF y verde #7BB369), reservando el color rojo para los elementos de énfasis (héroe, encabezados internos y pie) y el blanco como fondo principal de lectura del sitio.
+
+Asimismo, se presentó una incidencia técnica menor consistente en la alteración del contenido de los archivos assets/img/seal.svg y assets/img/mark.svg durante su escritura en el entorno de almacenamiento local, la cual fue detectada mediante verificación posterior y corregida sin pérdida de información.
+
+Estado: Validado.
+
+Observaciones: La conexión entre el sitio web, Fraternitas-ERP y la Biblioteca Virtual se resolvió mediante enlaces de bajo acoplamiento (URLs configurables en assets/js/config.js), sin integración de sesión compartida entre los tres sistemas. Queda pendiente la sustitución del emblema provisional por las artes institucionales definitivas y la actualización de la URL de la Biblioteca Virtual al desplegarse en un entorno de producción independiente.
+
+⸻
+

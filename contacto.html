@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contacto · Fraternidad No. 1</title>
+<link rel="icon" href="assets/img/mark.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="encabezado">
+  <nav class="nav">
+    <a href="index.html" class="marca">
+      <img src="assets/img/mark.svg" class="icono-marca" alt="">
+      <span class="texto-marca">
+        <strong>Fraternidad No. 1</strong>
+        <span>Or.·. de Veracruz · 1859</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="historia.html">Historia</a></li>
+      <li><a href="galeria.html">Galería</a></li>
+      <li><a href="biblioteca.html">Biblioteca</a></li>
+      <li><a href="faq.html">FAQ</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+    <div class="nav-acciones">
+      <a href="contacto.html#entrevista" class="btn btn-oro">Solicitar Entrevista</a>
+      <a href="#" data-enlace="erp" target="_blank" rel="noopener" class="enlace-miembros">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+        <span>Acceso Miembros</span>
+      </a>
+      <button class="nav-alterna" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <section class="cabecera-pagina">
+    <div class="migaja"><a href="index.html">Inicio</a> / Contacto</div>
+    <h1>Contacto</h1>
+  </section>
+
+  <section class="seccion" id="entrevista">
+    <div class="contenedor contacto-grid">
+
+      <div class="contacto-info">
+        <div class="item-contacto">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          <div>
+            <h3>Ubicación</h3>
+            <p>Or.·. de Veracruz, Veracruz, México</p>
+          </div>
+        </div>
+        <div class="item-contacto">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
+          <div>
+            <h3>Correo</h3>
+            <p>contacto@fraternidadno1.org</p>
+          </div>
+        </div>
+        <div class="item-contacto">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M22 16.9v3a2 2 0 01-2.2 2 19.8 19.8 0 01-8.6-3 19.5 19.5 0 01-6-6A19.8 19.8 0 012.1 4.2 2 2 0 014 2h3a2 2 0 012 1.7c.1.9.3 1.8.6 2.7a2 2 0 01-.4 2.1L8 9.9a16 16 0 006 6l1.4-1.2a2 2 0 012.1-.4c.9.3 1.8.5 2.7.6a2 2 0 011.7 2.1z"/></svg>
+          <div>
+            <h3>Teléfono</h3>
+            <p>+52 (229) 000 0000</p>
+          </div>
+        </div>
+        <div class="item-contacto">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
+          <div>
+            <h3>Horario de atención</h3>
+            <p>Lunes a viernes, 9:00 a 18:00 h</p>
+          </div>
+        </div>
+      </div>
+
+      <form class="form-contacto">
+        <h2 style="margin-bottom:6px;">Solicitar Entrevista</h2>
+        <p class="nota-form">Completa el formulario y nos pondremos en contacto contigo para agendar una entrevista.</p>
+        <div class="campo">
+          <label for="nombre">Nombre completo</label>
+          <input type="text" id="nombre" name="nombre" required>
+        </div>
+        <div class="campo">
+          <label for="correo">Correo electrónico</label>
+          <input type="email" id="correo" name="correo" required>
+        </div>
+        <div class="campo">
+          <label for="telefono">Teléfono</label>
+          <input type="tel" id="telefono" name="telefono">
+        </div>
+        <div class="campo">
+          <label for="mensaje">Mensaje</label>
+          <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-oro">Enviar Solicitud</button>
+        <p class="nota-form">Este formulario abre tu cliente de correo predeterminado. Para conectar un envío directo, sustituye la lógica en <code>assets/js/main.js</code> por un endpoint propio.</p>
+      </form>
+
+    </div>
+  </section>
+</main>
+
+<footer class="pie">
+  <div class="contenedor pie-grid">
+    <div class="pie-marca">
+      <img src="assets/img/mark.svg" class="icono-marca" alt="">
+      <div>
+        <strong>Resp.·. Log.·. Simb.·. Fraternidad No. 1</strong>
+        <span>Or.·. de Veracruz · 1859</span>
+      </div>
+    </div>
+    <div class="pie-columna"><h4>Historia</h4><p><a href="historia.html">Conoce nuestro legado y tradición.</a></p></div>
+    <div class="pie-columna"><h4>Galería</h4><p><a href="galeria.html">Momentos que reflejan nuestra labor.</a></p></div>
+    <div class="pie-columna"><h4>Biblioteca</h4><p><a href="biblioteca.html">Conocimiento y filosofía al alcance de todos.</a></p></div>
+    <div class="pie-columna"><h4>Contacto</h4><p><a href="contacto.html">Estamos para servirte y escucharte.</a></p></div>
+  </div>
+  <div class="contenedor pie-inferior">
+    <span>© 2026 Resp.·. Log.·. Simb.·. Fraternidad No. 1 · Or.·. de Veracruz. Todos los derechos reservados.</span>
+    <div class="pie-social">
+      <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M15 8h-2a2 2 0 00-2 2v10M8 12h6"/></svg></a>
+      <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="12" cy="12" r="3.2"/><circle cx="17" cy="7" r="1"/></svg></a>
+      <a href="contacto.html" aria-label="Correo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg></a>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/config.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
