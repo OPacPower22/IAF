@@ -141,18 +141,6 @@ h1,h2,h3,h4{
 .nav-links a.activo{color:var(--rojo);border-color:var(--dorado);}
 
 .nav-acciones{display:flex;align-items:center;gap:18px;}
-.enlace-miembros{
-  display:flex;
-  align-items:center;
-  gap:8px;
-  font-family:var(--fuente-titulo);
-  font-size:.72rem;
-  letter-spacing:.06em;
-  text-transform:uppercase;
-  color:var(--texto-tenue);
-}
-.enlace-miembros svg{width:20px;height:20px;color:var(--rojo);}
-.enlace-miembros:hover{color:var(--rojo);}
 
 .nav-alterna{
   display:none;
@@ -496,7 +484,7 @@ h1,h2,h3,h4{
   .pie-grid{grid-template-columns:repeat(2,1fr);}
 }
 @media (max-width:760px){
-  .nav-links,.nav-acciones .btn,.enlace-miembros span{display:none;}
+  .nav-links,.nav-acciones .btn{display:none;}
   .nav-alterna{display:flex;}
   .nav.abierto .nav-links{
     display:flex;
