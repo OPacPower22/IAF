@@ -312,13 +312,28 @@ h1,h2,h3,h4{
   color:var(--dorado);
 }
 .biblioteca-arte{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  min-height:260px;
   border:1px dashed rgba(255,255,255,.45);
   border-radius:var(--radio);
   padding:40px;
   text-align:center;
   color:rgba(255,255,255,.85);
+  background:rgba(255,255,255,.03);
 }
-.biblioteca-arte svg{width:64px;height:64px;color:var(--dorado);margin:0 auto 14px;}
+.biblioteca-arte-imagen{
+  width:min(260px,100%);
+  height:auto;
+  max-height:220px;
+  object-fit:contain;
+  display:block;
+  margin:0 auto 16px;
+  filter:drop-shadow(0 8px 16px rgba(0,0,0,.35));
+}
+.biblioteca-arte p{margin:0;}
 
 .tarjetas-tres{
   display:grid;
